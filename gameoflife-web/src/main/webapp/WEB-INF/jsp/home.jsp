@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to cube's Game Of Life!</h2>
+<h2>Welcome to project's Game Of Life!</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
